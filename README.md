@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tennessee-told-me-so/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tennessee Told Me So](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-told-me-so/) |
+| **Get License** | [Commercial Licensing for Tennessee Told Me So](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-told-me-so/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I felt the fire the moment that we met
+> A kind of burning that I cannot forget
+> Your eyes are pulling me out of the cold
+> A midnight story waiting to be told
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
