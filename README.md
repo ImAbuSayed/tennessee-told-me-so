@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tennessee-told-me-so/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tennessee Told Me So](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-told-me-so/) |
+| **Get License** | [Obtain a Music License for Tennessee Told Me So](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-told-me-so/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a82999dc3ab83d2e2cfa8c384d7089ed6761a0e4d8bd0eb4cfffed359604618b` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
